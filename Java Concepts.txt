@@ -1,0 +1,38 @@
+1) Features of java
+2) Java Architecture
+3) Jshell
+4) keywords and data types
+5) Operators
+6) Class, Object
+7) control structures if else, switch, while, do while, for, foreach
+8) package and access modifier
+9) String class and string builder
+10) Wrapper classes
+11) Arrays
+12) Enumeration
+13) Regular expression
+14) Date Time api
+15) Static
+16) Method and constructor overloading, Polymorphism
+17) Inheritance
+18) Method overriding
+19) Object class
+20) final
+21) Abstract
+22) Interface
+23) Functional interface
+24) Exceptional Handling
+25) Generics
+26) List, Arraylist, Stack, linked list, collections framework
+27) Set, LinkedHashSet, SortedSet, TreeSet
+28) Map, HashMap, LinkedHashMap, TreeMap
+29) PriorityQueue, ArrayDeque
+30) Lambdas, Higher order functions
+31) Streams
+32) Optional class
+33) Multithreading
+34) Files read write operations
+35) Reflection
+36) Design patterns
+37) Memory management
+38)

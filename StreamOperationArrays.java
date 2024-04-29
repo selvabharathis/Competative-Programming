@@ -5,6 +5,18 @@ import java.util.List;
 import java.util.stream.IntStream;
 
 public class StreamOperationArrays {
+    /*
+    * Strean are used to process elements on demand in a chain of method calls.
+    *
+    * Intermediate Operations: operation can be chained together to form a pipeline for processing elements.
+    * filter, map, mapToInt, flatMap, distinct, sorted, limit, skip etc.
+    *
+    * Terminal Operations: Operations that terminate a stream pipeline and produce a result.
+    * count, min, max, anyMatch, forEach, collect, reduce, toList, toSet, toArray
+    *
+    * parallel stream: stream can be proceed in parallel to take advantage of multi-core processors.
+    * This can be acheived by invoking parallel() method on a stream.
+    * */
     public static void main(String args[]) {
         int[] arr = {1, 2, 3, 4, 5};
         int[] filteredArr = Arrays.stream(arr)
