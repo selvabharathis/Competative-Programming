@@ -24,6 +24,6 @@ public class DifferenceBetweenElementSumAndDigitSumOfAnArray {
     public static void main(String args[]) {
         System.out.println("Result: " + differenceOfSum(Stream.of(1,15,6,3).mapToInt(Integer::intValue).toArray()));
         int[] testCase2 = {1,2,3,4};
-        System.out.println("Result: " + differenceOfSum(testCase2);
+        System.out.println("Result: " + differenceOfSum(testCase2));
     }
 }
